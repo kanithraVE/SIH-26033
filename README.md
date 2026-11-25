@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25.11.2026
+## Reference Number:26008403
+## Name:Kanithra V E 
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,79 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FARM2FORK is an AI-powered digital marketplace that directly connects farmers with consumers, retailers and bulk buyers, eliminating unnecessary intermediaries.
 
+It uses AI to predict market demand and suggest fair prices, while smart logistics optimizes delivery routes and reduces transportation costs. A QR-based tracking system ensures product transparency, and a surplus management feature connects unsold produce with nearby buyers to minimize food wastage.
+
+the goal is to ensure better earnings for farmers, affordable prices for consumers and a more efficient agricultural supply chain.
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies to be Used:
+  i) Frontend: React.js
+
+  ii) Backend: Python (FastAPI)
+
+  iii) Database: Firebase
+
+  iv) AI/ML: Python, Scikit-learn
+
+  v) Route Optimization: Google Maps API
+
+  vi) Cloud: AWS
+
+Implementation Methodology:
+  1. Farmers register and upload their crop details.
+  2. AI predicts demand and suggests fair prices.
+  3. Buyers purchase directly through the platform.
+  4. Smart logistics optimizes delivery routes.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. Analysis of the Feasibility of the Idea
+
+    i) Uses existing technologies like AI, GPS and cloud computing.
+
+    ii)Cost-effective and scalable digital platform.
+
+    iii)Easy access through mobile applications.
+
+2. Potential Challenges and Risks
+
+    i)Limited digital literacy among farmers.
+
+    ii)Poor internet connectivity in rural areas.
+
+    iii)Transportation and product quality issues.
+
+3. Strategies for Overcoming These Challenges
+
+    i)Provide multilingual and voice-based support.
+
+    ii)Introduce offline access and simple interfaces.
+
+    iii)Partner with local transport providers and implement quality verification.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
 
+1. Potential Impact on the Target Audience
+
+    i) Farmers gain direct access to consumers and bulk buyers.
+
+    ii)Consumers receive fresh produce at affordable prices.
+
+    iii)Retailers benefit from a reliable supply of agricultural products.
+
+
+2. Benefits of the Solution
+
+    i)Social: Empowers farmers and supports rural communities.
+
+    ii)Economic: Increases farmers' earnings and reduces consumer costs.
+
+    iii)Environmental: Minimizes food wastage and unnecessary transportation.
+
+    iv)Technological: Improves supply chain efficiency through AI and smart logistics
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+e-NAM: https://enam.gov.in/ – Digital agricultural marketplace.
+
+AGMARKNET: https://agmarknet.gov.in/ – Agricultural market prices and trends.
+
+FAO: https://www.fao.org/ – Research on food loss and supply chain management.
